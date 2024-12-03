@@ -2,4 +2,4 @@ busybox:1.36.1-glibc
 dezhao/lanraragi_cn:latest
 xiaoyaliu/alist:latest
 yidadaa/chatgpt-next-web:latest
-lobehub/lobe-chat
+lobehub/lobe-chat:latest
