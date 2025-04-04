@@ -3,3 +3,4 @@ dezhao/lanraragi_cn:latest
 xiaoyaliu/alist:latest
 yidadaa/chatgpt-next-web:latest
 lobehub/lobe-chat:latest
+jvmilazz0/kavita:latest
